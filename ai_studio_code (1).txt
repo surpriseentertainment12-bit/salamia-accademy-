@@ -1,0 +1,18 @@
+college_static_site/
+├── index.html
+├── about.html          # একটি উদাহরণ অতিরিক্ত পৃষ্ঠা
+├── courses.html        # আরেকটি উদাহরণ অতিরিক্ত পৃষ্ঠা
+└── assets/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── script.js
+    └── images/
+        ├── logo.png       (আপনার কলেজের লোগো)
+        ├── hero-bg.jpg    (হিরো সেকশনের ব্যাকগ্রাউন্ড ইমেজ)
+        ├── course1.jpg    (কোর্স ১ এর ইমেজ)
+        ├── course2.jpg    (কোর্স ২ এর ইমেজ)
+        ├── course3.jpg    (কোর্স ৩ এর ইমেজ)
+        ├── faculty1.jpg   (শিক্ষকের ইমেজ ১)
+        ├── faculty2.jpg   (শিক্ষকের ইমেজ ২)
+        └── faculty3.jpg   (শিক্ষকের ইমেজ ৩)
